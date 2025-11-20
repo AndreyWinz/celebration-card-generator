@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Node (optional future usage)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Build tools (if added later)
+dist/
+build/
+
+# Cache
+.cache/
+.parcel-cache/
