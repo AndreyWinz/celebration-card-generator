@@ -1,5 +1,5 @@
 # celebration-card-generator
-A customizable, interactive celebration card generator built with HTML, CSS, and vanilla JavaScript. Includes a welcome screen, personalized message input, animated confetti effects, and dynamic styling through configuration values.
+A customizable, interactive celebration card generator built with HTML, CSS, and vanilla JavaScript. Includes a welcome screen, personalised message input, animated confetti effects, and dynamic styling through configuration values.
 
 # 🎉 Celebration Card Generator
 
@@ -68,3 +68,15 @@ If using with elementSdk, all values dynamically update in real-time.
 ## 🪪 License
 Released under the MIT License.
 You are free to use, modify, and distribute this project.
+
+## 👨‍🚀 Author
+
+Developed by AndreyWinz
+
+Feel free to contribute, fork, or suggest new features!
+
+## P.S.
+I do these projects purely for fun, and I decided to upload them to GitHub to share with others. I am not asking or begging for a donation, but if you want to appreciate my work, feel free to donate! You can also send your GitHub username in the "Note" section of the donation page, so I can give you a shout-out in the next repository. Stay tuned for more!
+
+This is my Revolut Payment Link:
+[Thank you so much!](https://revolut.me/andreygdl9)
