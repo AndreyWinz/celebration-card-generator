@@ -1,4 +1,7 @@
 # celebration-card-generator
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 A customizable, interactive celebration card generator built with HTML, CSS, and vanilla JavaScript. Includes a welcome screen, personalised message input, animated confetti effects, and dynamic styling through configuration values.
 
 # 🎉 Celebration Card Generator
